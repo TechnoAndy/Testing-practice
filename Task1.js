@@ -3,4 +3,4 @@ const stringLength = (string) => {
     else {throw Error ('The string exceeds the expected length')};
 }
 
-
+module.exports = stringLength

@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "You will write a few practical tests for JavaScript functions using the Jest library.",
+  "main": "Task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnoAndy/Testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechnoAndy/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/TechnoAndy/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
