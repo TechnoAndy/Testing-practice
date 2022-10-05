@@ -4,7 +4,8 @@
   "description": "You will write a few practical tests for JavaScript functions using the Jest library.",
   "main": "Task1.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "repository": {
     "type": "git",

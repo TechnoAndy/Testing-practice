@@ -12,3 +12,5 @@ class calculator {
       return a / b;
     }
   }
+
+  module.exports = calculator
