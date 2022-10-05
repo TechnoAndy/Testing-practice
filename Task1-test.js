@@ -5,5 +5,5 @@ it('expected length for Andrea to be 6', () => {
 })
 
 it('expected to throw Error', () => {
-  expect(() => {stringLength('AndreaDiegaardt')}).toThrow();
+  expect(() => {stringLength('Andrea Diegaardt')}).toThrow();
 })
