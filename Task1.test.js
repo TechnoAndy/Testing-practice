@@ -1,9 +1,9 @@
-const stringLength = require('./Task1')
+const stringLength = require('./Task1');
 
-it('length for Andy to be 6', () => {
-  expect(stringLength('Andrea')).toBe(6);
+test('length for Andy should be 4', () => {
+  expect(stringLength('Andy')).toBe(4);
 })
 
-it('throw Error', () => {
+test('throw Error', () => {
   expect(() => {stringLength('Andrea Diegaardt')}).toThrow();
 })
